@@ -1,0 +1,78 @@
+[
+  {
+    "Takım": "Fenerbahçe",
+    "TakımBaskanı": "Ali Koç",
+    "TeknikDirektör": "Emre Belezoğlu",
+    "Takım Kaptanı": "Gökhan Gönül",
+    "ŞampiyonlukSayısı": "28",
+    "Açıklama": "     Fenerbahçe Spor Kulübü'nün Süper Lig'de mücadele eden profesyonel futbol takımıdır.[2] Kulübün futbol dışında faaliyet gösterdiği diğer spor dalları basketbol, voleybol, atletizm, boks, kürek, yelken, yüzme, e-Spor ve masa tenisi'dir. Türkiye futbol tarihinin en başarılı ve en çok taraftarı olan spor kulüplerinden birisidir.",
+    "fotograf": "assets/images/kadro/fenerbahcekadro.jpg"
+
+  },
+
+  {
+    "Takım": "Galatasaray",
+    "TakımBaskanı": "Mustafa Cengiz",
+    "TeknikDirektör": "Fatih Terim",
+    "Takım Kaptanı": "Fernando Muslera",
+    "ŞampiyonlukSayısı": "22",
+    "Açıklama": "   Galatasaray futbol takımı, Galatasaray Spor Kulübü'nün Süper Lig'de mücadele eden futbol takımıdır. Galatasaray Spor Kulübü'ne ait olan Galatasaray Sportif Anonim Şirketi, kulübün futbol takımının sahibidir. Galatasaray Spor Kulübü'nün 1997 yılında şirketleşme sürecine girmesinin ardından kurulmuştur.",
+    "fotograf": "assets/images/kadro/galatasaraykadro.jpg"
+
+  },
+
+  {
+    "Takım": "Beşiktaş",
+    "TakımBaskanı": "Ahmet Nur Çebi",
+    "TeknikDirektör": "Sergen Yalçın",
+    "Takım Kaptanı": "Atiba Hutchinson",
+    "ŞampiyonlukSayısı": "15",
+    "Açıklama": "  Beşiktaş, Beşiktaş Jimnastik Kulübü'nün Süper Lig'de mücadele eden futbol takımı. 1903 yılında Bereket Jimnastik Kulübü (Asıl Çerkesçe ismi Bereketiqo olup bazı kurucuların mensup olduğu Çerkes sülalesinden gelmektedir, Türkçeye Bereket olarak çevirilmiştir. adıyla kurulan Beşiktaş JK'nin, Ağustos 1911'de kurulan şubesidir. Maçlarını 2012-13 sezonuna kadar 32.086 kapasiteli İnönü Stadyumu'nda oynamıştır. ",
+    "fotograf": "assets/images/kadro/besiktaskadro.jpg"
+
+  },
+
+  {
+    "Takım": "Trabzonspor",
+    "TakımBaskanı": "Ahmet Ağaoğlu",
+    "TeknikDirektör": "Abdullah Avcı",
+    "Takım Kaptanı": "Uğurcan Çakır",
+    "ŞampiyonlukSayısı": "6",
+    "Açıklama": "   Trabzonspor Futbol Takımı 2 Ağustos 1967'de kurulan Trabzonspor Kulübü'nün profesyonel futbol takımı. Renkleri kulübün tüm branşlarda ortak olarak kullandığı, koyu bordo ve açık mavidir. Trabzonspor Futbol Takımı, Süper Lig'de şampiyon olmuş, ilk Anadolu takımıdır ve şampiyon olmayı başarmış altı takımdan biridir.",
+    "fotograf": "assets/images/kadro/trabzonkadro.jpg"
+
+  },
+
+  {
+    "Takım": "Başakşehir",
+    "TakımBaskanı": "Göksel Gümüşdağ",
+    "TeknikDirektör": "Aykut Kocaman",
+    "Takım Kaptanı": "Volkan Babacan",
+    "ŞampiyonlukSayısı": "1",
+    "Açıklama": "   İstanbul Başakşehir Futbol Kulübü veya sponsorluk anlaşması gereğince Medipol Başakşehir Futbol Kulübü, 1990 yılında dönemin İstanbul Belediye Başkanı Nurettin Sözen tarafından kurulan ve 2014 yılının Haziran ayına kadar İstanbul Büyükşehir Belediyespor bünyesinde faaliyet göstermesinin ardından, 4 Haziran 2014 ...",
+    "fotograf": "assets/images/kadro/basaksehirkadro.jpg"
+
+  },
+
+  {
+    "Takım": "Sivasspor",
+    "TakımBaskanı": "Mecnun Otyakmaz",
+    "TeknikDirektör": "Rıza Çalımbay",
+    "Takım Kaptanı": "Hakan Arslan",
+    "ŞampiyonlukSayısı": "0",
+    "Açıklama": "   Sivasspor, 9 Mayıs 1967 tarihinde Sivas'ta kuruldu. Süper Lig'de mücadele eden futbol takımı. Kulüp, futbol dışında e-Spor, masa tenisi, judo, bilardo, cirit ve briç branşlarında faaliyetini sürdürmektedir.",
+    "fotograf": "assets/images/kadro/sivaskadro.jpg"
+
+  },
+
+  {
+    "Takım": "Konyaspor",
+    "TakımBaskanı": "Hilmi Kulluk",
+    "TeknikDirektör": "İlhan Palut",
+    "Takım Kaptanı": "Ömer Ali Şahiner",
+    "ŞampiyonlukSayısı": "0",
+    "Açıklama": "   Konyaspor veya sponsorluk anlaşması gereğince İttifak Holding Konyaspor, Türkiye'nin Konya şehrinde kurulan spor kulübü. Süper Lig'de mücadele etmektedir. İç saha maçlarını 42.000 kişilik Konya Büyükşehir Belediye Stadyumu'nda oynamaktadır.",
+    "fotograf": "assets/images/kadro/konyakadro.jpg"
+
+  }
+]

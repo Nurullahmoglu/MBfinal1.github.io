@@ -1,0 +1,105 @@
+Index: lib/main.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/main.dart	(date 1619474370896)
++++ lib/main.dart	(date 1619474370896)
+@@ -15,7 +15,7 @@
+       debugShowCheckedModeBanner: false,
+       routes: {
+         "/": (context) => LoginPage(),
+-        "/TakımlarBilgi":(context)=>TakimlarBilgi(),
++        //"/TakımlarBilgi":(context)=>TakimlarBilgi(),
+ 
+       },
+     );
+Index: lib/Menu.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/Menu.dart	(date 1619476212598)
++++ lib/Menu.dart	(date 1619476212598)
+@@ -37,14 +37,14 @@
+                           title: Text("Hakkımızda"),
+                           leading: Icon(Icons.account_box),
+                           onTap: () {
+-                            Navigator.pushNamed(context, "/TakımlarBilgi",arguments:Veri(asd: 0)) ;
+-                            /*Navigator.push(
++
++                            Navigator.push(
+                               context,
+                               MaterialPageRoute(
+                                   builder: (context) => TakimlarBilgi(
+                                   )
+                               ),
+-                            );*/
++                            );
+                           },
+                         ),
+                       ),
+@@ -85,9 +85,3 @@
+     );
+   }
+ }
+-class Veri{
+-  late int asd;
+-  get qwer{
+-    return asd;
+-  }
+-}
+Index: lib/login.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/login.dart	(date 1619476212594)
++++ lib/login.dart	(date 1619476212594)
+@@ -9,6 +9,7 @@
+ class _LoginPageState extends State<LoginPage> {
+   String user = "";
+   String pass = "";
++  String asd="naber";
+   final _formKey = GlobalKey<FormState>();
+   @override
+   Widget build(BuildContext context) {
+@@ -93,7 +94,7 @@
+                 context,
+                 MaterialPageRoute(
+                     builder: (context) => HomePage(
+-                          username: user,
++                          username: asd,
+                         )),
+               );
+             } else {
+Index: lib/TakimlarBilgi.dart
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- lib/TakimlarBilgi.dart	(date 1619476212591)
++++ lib/TakimlarBilgi.dart	(date 1619476212591)
+@@ -2,7 +2,9 @@
+ import 'package:odev/Menu.dart';
+ 
+ class TakimlarBilgi extends StatefulWidget {
++final index;
+ 
++  const TakimlarBilgi({Key? key,@required this.index}) : super(key: key);
+   @override
+   _TakimlarBilgiState createState() => _TakimlarBilgiState();
+ }
+@@ -10,10 +12,10 @@
+ class _TakimlarBilgiState extends State<TakimlarBilgi> {
+   @override
+   Widget build(BuildContext context) {
+-    //Object? nurullah =ModalRoute.of(context)!.settings.arguments;
++
+ 
+     return Center(
+-      child: Text(nurullah!.qwer()),
++     // child: Text(nurullah!.qwer()),
+     );
+   }
+ }

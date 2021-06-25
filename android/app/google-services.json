@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "158815949133",
+    "project_id": "superlig-80028",
+    "storage_bucket": "superlig-80028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158815949133:android:3d090db0bd3b3050236704",
+        "android_client_info": {
+          "package_name": "com.example.odev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158815949133-m403lbid604q7u2kb8vi9vqo6hs52tm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.odev",
+            "certificate_hash": "529b443e5a162170cc96e6417efa4634abe7bc53"
+          }
+        },
+        {
+          "client_id": "158815949133-ikaiieuil4tfanjaph0ua28j7m1esf1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FPhw7ypalFbWKd-yvhTwLycQVpEVfGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158815949133-ikaiieuil4tfanjaph0ua28j7m1esf1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
